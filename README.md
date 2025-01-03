@@ -22,19 +22,6 @@ where each player controls a paddle to hit the ball and try to score points.
 ## 🛠 Prerequisites
 - 🐍 Python 3.x installed on your machine.
 
-## 🚀 Installation
-1. Clone this repository:
-   bash
-   git clone https://github.com/your-username/pong-game.git
-   
-2. Navigate to the project directory:
-   bash
-   cd pong-game
-   
-3. Run the script:
-   bash
-   python pong_game.py
-   
 
 ## 📂 Project Structure
 - 📜 `pong game.py`: The main game script.
